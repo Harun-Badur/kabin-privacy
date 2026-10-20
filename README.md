@@ -2,7 +2,7 @@
 
 **Son güncelleme:** 20 Ekim 2026
 **Uygulama:** Vitrify (Android)
-**İletişim:** destek@kabin.app
+**İletişim:** vitrifyapp@gmail.com
 
 Vitrify; moda ürünlerini keşfetmenizi, yapay zekâ ile sanal olarak denemenizi ve
 beğendiklerinizi takip etmenizi sağlar. Bu politika hangi verileri topladığımızı,
@@ -110,7 +110,7 @@ silme garantisi verilmez. Galerinizdeki bağımsız kopyalar bu kapsamda değild
 ### Web üzerinden / e-posta ile
 
 Uygulamayı kaldırdıysanız veya uygulamaya erişemiyorsanız hesap kaydınızla
-aynı adresten **destek@kabin.app** adresine "Hesap silme talebi" konulu bir
+aynı adresten **vitrifyapp@gmail.com** adresine "Hesap silme talebi" konulu bir
 e-posta ile talep iletebilirsiniz. Talebin alınması, hesabın doğrulanması ve
 işlemin tamamlanması ayrıca teyit edilmelidir; bu metin doğrulanmamış bir
 yanıt süresi veya otomatik silme garantisi vermez.
@@ -121,7 +121,7 @@ yanıt süresi veya otomatik silme garantisi vermez.
 
 KVKK ve GDPR kapsamında; verilerinize erişme, düzeltme, silme, işlemeyi
 kısıtlama ve verilerinizi taşınabilir biçimde alma hakkına sahipsiniz. Bu
-haklarınızı kullanmak için **destek@kabin.app** adresine yazabilirsiniz.
+haklarınızı kullanmak için **vitrifyapp@gmail.com** adresine yazabilirsiniz.
 
 ---
 
@@ -152,7 +152,7 @@ değişiklikleri uygulama içinde duyururuz.
 
 # Vitrify — Privacy Policy (English summary)
 
-**Last updated:** 20 October 2026 · **Contact:** destek@kabin.app
+**Last updated:** 20 October 2026 · **Contact:** vitrifyapp@gmail.com
 
 **What we collect.** Your email address (for the account), the products you
 like or skip, your price-alert preferences, your push notification token, and
@@ -190,11 +190,11 @@ The app-controlled cleanup flow may require retry and does not report completion
 on failure. Account deletion waits for the app-controlled server-file cleanup
 checks. External-provider and backup deletion are not technically verified by
 this client. We do not promise immediate removal of all copies. You may email
-**destek@kabin.app** with the subject "Account deletion request" if you cannot
+**vitrifyapp@gmail.com** with the subject "Account deletion request" if you cannot
 access the app; receipt, identity verification and completion require confirmation.
 No unverified response-time guarantee is made here.
 
 **Your rights.** Under GDPR and Turkish KVKK you may access, correct, delete,
-restrict, or export your data. Contact **destek@kabin.app**.
+restrict, or export your data. Contact **vitrifyapp@gmail.com**.
 
 **Children.** Vitrify is not directed at children under 13.
